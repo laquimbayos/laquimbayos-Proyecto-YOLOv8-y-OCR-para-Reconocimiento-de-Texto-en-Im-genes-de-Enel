@@ -1,0 +1,1 @@
+# laquimbayos-Proyecto-YOLOv8-y-OCR-para-Reconocimiento-de-Texto-en-Im-genes-de-Enel
