@@ -40,7 +40,4 @@ Este proyecto implementa un modelo YOLOv8 personalizado, diseñado para detectar
   - Tesseract-OCR
   - PIL (Pillow)
 
-## ▶️ Ejecución
-1. Instalar las dependencias:
-   ```bash
-   pip install ultralytics roboflow opencv-python pillow pytesseract
+
