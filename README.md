@@ -1,4 +1,4 @@
-# Proyecto YOLOv8 y OCR para Reconocimiento de Texto en Imágenes de Enel
+# Proyecto YOLOv8 y OCR para Reconocimiento de Texto en Imágenes de Enel (Privado)
 
 YOLO (You Only Look Once) es una red neuronal convolucional (CNN) diseñada específicamente para la tarea de detección de objetos. Su estructura combina características de las redes convolucionales para extraer información de las imágenes con un diseño eficiente que permite procesar la tarea de detección en una sola pasada.
 
